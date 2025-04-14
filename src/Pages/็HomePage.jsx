@@ -27,15 +27,15 @@ const HomePage = () => {
             </button>
           </Link>
 
-          <Link to="/item">
+          <Link to="/items">
             <button className="bg-pink-400 hover:bg-pink-500 text-white font-semibold px-6 py-3 rounded-full shadow-lg transition-transform hover:scale-105">
               Explore Items
             </button>
           </Link>
 
-          <Link to="/item">
+          <Link to="/moves">
             <button className="bg-blue-400 hover:bg-blue-500 text-white font-semibold px-6 py-3 rounded-full shadow-lg transition-transform hover:scale-105">
-              Go to Item Page
+              Go to Moves Page
             </button>
           </Link>
         </div>
